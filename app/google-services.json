@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821437578153",
+    "project_id": "asm-login-and103",
+    "storage_bucket": "asm-login-and103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821437578153:android:f6b9f7509de207d42862b8",
+        "android_client_info": {
+          "package_name": "fpoly.pro1121.asmand103"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OugwdxbS0h5RM6KaJ9TnQirBnNZksKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
